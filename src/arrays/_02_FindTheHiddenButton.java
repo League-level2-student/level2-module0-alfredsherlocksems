@@ -1,6 +1,6 @@
 /*****
  * 
- * Run the FndHdnBtn.jar to play the finished game
+d * Run the FndHdnBtn.jar to play the finished game
  * 
  *****/
 
